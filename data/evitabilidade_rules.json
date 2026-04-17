@@ -1,0 +1,22 @@
+[
+  {
+    "padrao": "tenure",
+    "evitavel": false,
+    "acao": "cliente novo — priorizar onboarding ativo e acompanhamento nos primeiros 3 meses"
+  },
+  {
+    "padrao": "InternetService_Fiber optic",
+    "evitavel": true,
+    "acao": "acionar pesquisa de satisfação com o serviço de fibra e oferecer crédito em caso de instabilidade reportada"
+  },
+  {
+    "padrao": "Contract_One year",
+    "evitavel": false,
+    "acao": "cliente com contrato anual — verificar proximidade do vencimento e antecipar oferta de renovação com benefício"
+  },
+  {
+    "padrao": "MonthlyCharges",
+    "evitavel": true,
+    "acao": "oferecer downgrade de plano ou desconto por fidelidade de 12 meses"
+  }
+]
